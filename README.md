@@ -1,2 +1,10 @@
-# Portfolio-
-Portfolio criado para por em prática HTML, CSS E JS
+# Portfólio-
+
+Foi criado esse portfólio para por em prática o venho aprendendo ao longo de cursos
+
+Tecnologias usadas:
+
+*HTML
+*CSS
+*JAVASCRIPT
+ 
